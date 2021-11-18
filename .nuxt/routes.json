@@ -1,0 +1,16 @@
+[
+  {
+    "name": "old_index",
+    "path": "/old_index",
+    "component": "/home/arejano/private_projects/bruno-intranet-v1/pages/old_index.vue",
+    "chunkName": "pages/old_index",
+    "_name": "_79cae77b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/arejano/private_projects/bruno-intranet-v1/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_22c8ffda"
+  }
+]
