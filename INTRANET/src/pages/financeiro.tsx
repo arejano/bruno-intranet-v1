@@ -4,8 +4,8 @@ import PlanosIntranet from "components/PlanosIntranet";
 
 const Financeiro = () => {
   return (
-    <Box mb={8} w="full">
-      <PlanosIntranet/>
+    <Box mb={8} w="full" h="full" align="center">
+      <PlanosIntranet />
     </Box>
 
   );
